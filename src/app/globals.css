@@ -3,7 +3,7 @@
 @theme {
   --color-*: initial;
 
-  --color-blue: #6F9DE2
+  --color-blue: #6F9DE2;
   --color-purple: #9871F3;
   --color-purple: #F05D6C;
 
@@ -19,4 +19,6 @@
 
   --font-heading: var(--font-oxanium);
   --font-sans: var(--font-montserrat);
+
+  --radius-xl: 0.625rem;
 }
