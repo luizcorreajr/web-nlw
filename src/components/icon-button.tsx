@@ -1,4 +1,4 @@
-import { ReactNode } from "react"
+import { ComponentProps, ReactNode } from "react"
 
 interface IconButtonProps {
   children: ReactNode
