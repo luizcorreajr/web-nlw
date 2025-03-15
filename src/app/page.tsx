@@ -16,7 +16,8 @@ export default function Home() {
       </IconButton>
 
       <div>
-        <Input placeholder="Digite seu e-mail"/>
+        <Input type="email" placeholder="Digite seu e-mail" />
+        <Input type="email" placeholder="Digite seu e-mail" error />
       </div>
     </main>
   );
